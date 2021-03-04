@@ -1,1 +1,1 @@
-# french_sentiment_analysis_on_tweets
+French sentiment analysis on tweets
